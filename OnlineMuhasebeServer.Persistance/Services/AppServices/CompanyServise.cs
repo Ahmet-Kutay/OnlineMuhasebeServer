@@ -1,17 +1,21 @@
-﻿using OnlineMuhasebeServer.Persistance.Context;
+﻿using AutoMapper;
 using OnlineMuhasebeServer.Application.Features.AppFeatures.CompanyFeatures.Commands.CreateCompany;
-using OnlineMuhasebeServer.Persistance.Context;
 using OnlineMuhasebeServer.Application.Services.AppServices;
+using OnlineMuhasebeServer.Domain.AppEntities;
+using OnlineMuhasebeServer.Persistance.Context;
 
 namespace OnlineMuhasebeServer.Persistance.Services.AppServices
 {
     public sealed class CompanyService : ICompanyService
     {
         private readonly AppDbContext _context;
+        private readonly IMapper _mapper;
 
-        public Task CreateCompany(CreateCompanyRequest request)
+        public async Task CreateCompany(CreateCompanyRequest request)
         {
-            throw new NotImplementedException();
+            Company company = _mapper.Map<Company>(request);
+            await _context.Set<Company>().AddAsync(company);
+            await _context.SaveChangesAsync();
         }
     }
 }

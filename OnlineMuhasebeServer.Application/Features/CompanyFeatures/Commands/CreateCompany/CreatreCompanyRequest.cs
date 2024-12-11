@@ -2,7 +2,8 @@
 
 namespace OnlineMuhasebeServer.Application.Features.AppFeatures.CompanyFeatures.Commands.CreateCompany
 {
-    public sealed class CreateCompanyRequest : IRequest<CreateCompanyResponse>
+    public sealed class CreateCompanyRequest : 
+        IRequest<CreateCompanyResponse>
     {
         public string Name { get; set; }
         public string ServerName { get; set; }
