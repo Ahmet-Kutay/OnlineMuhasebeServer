@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A533F519-B4B5-4B6D-ADA4-39A8D5AE5132}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|c:\\users\\kutay\\desktop\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.persistance\\onlinemuhasebeserver.persistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A533F519-B4B5-4B6D-ADA4-39A8D5AE5132}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|solutionrelative:onlinemuhasebeserver.persistance\\onlinemuhasebeserver.persistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A533F519-B4B5-4B6D-ADA4-39A8D5AE5132}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|c:\\users\\kutay\\desktop\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.persistance\\services\\appservices\\companyservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A533F519-B4B5-4B6D-ADA4-39A8D5AE5132}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|solutionrelative:onlinemuhasebeserver.persistance\\services\\appservices\\companyservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65D0557-DB5E-4C99-9698-C393A1A882F9}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\users\\kutay\\desktop\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\companyfeatures\\commands\\createcompany\\createcompanycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65D0557-DB5E-4C99-9698-C393A1A882F9}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\companyfeatures\\commands\\createcompany\\createcompanycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65D0557-DB5E-4C99-9698-C393A1A882F9}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\users\\kutay\\desktop\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\services\\appservices\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65D0557-DB5E-4C99-9698-C393A1A882F9}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\services\\appservices\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65D0557-DB5E-4C99-9698-C393A1A882F9}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\users\\kutay\\desktop\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\companyfeatures\\commands\\createcompany\\createcompanyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65D0557-DB5E-4C99-9698-C393A1A882F9}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\companyfeatures\\commands\\createcompany\\createcompanyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65D0557-DB5E-4C99-9698-C393A1A882F9}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\users\\kutay\\desktop\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\features\\companyfeatures\\commands\\createcompany\\creatrecompanyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65D0557-DB5E-4C99-9698-C393A1A882F9}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\features\\companyfeatures\\commands\\createcompany\\creatrecompanyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65D0557-DB5E-4C99-9698-C393A1A882F9}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|c:\\users\\kutay\\desktop\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.application\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65D0557-DB5E-4C99-9698-C393A1A882F9}|OnlineMuhasebeServer.Application\\OnlineMuhasebeServer.Application.csproj|solutionrelative:onlinemuhasebeserver.application\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A533F519-B4B5-4B6D-ADA4-39A8D5AE5132}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|c:\\users\\kutay\\desktop\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.persistance\\context\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A533F519-B4B5-4B6D-ADA4-39A8D5AE5132}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|solutionrelative:onlinemuhasebeserver.persistance\\context\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A533F519-B4B5-4B6D-ADA4-39A8D5AE5132}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|c:\\users\\kutay\\desktop\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.persistance\\configurations\\ucafconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A533F519-B4B5-4B6D-ADA4-39A8D5AE5132}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|solutionrelative:onlinemuhasebeserver.persistance\\configurations\\ucafconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A533F519-B4B5-4B6D-ADA4-39A8D5AE5132}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|c:\\users\\kutay\\desktop\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.persistance\\constans\\tablenames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A533F519-B4B5-4B6D-ADA4-39A8D5AE5132}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|solutionrelative:onlinemuhasebeserver.persistance\\constans\\tablenames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F53AF4-10E3-400A-93AA-D307303F2C28}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|c:\\users\\kutay\\desktop\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.domain\\onlinemuhasebeserver.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2F53AF4-10E3-400A-93AA-D307303F2C28}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|solutionrelative:onlinemuhasebeserver.domain\\onlinemuhasebeserver.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F53AF4-10E3-400A-93AA-D307303F2C28}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|c:\\users\\kutay\\desktop\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.domain\\companyentities\\uniformchartofaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F53AF4-10E3-400A-93AA-D307303F2C28}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|solutionrelative:onlinemuhasebeserver.domain\\companyentities\\uniformchartofaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A533F519-B4B5-4B6D-ADA4-39A8D5AE5132}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|c:\\users\\kutay\\desktop\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.persistance\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A533F519-B4B5-4B6D-ADA4-39A8D5AE5132}|OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj|solutionrelative:onlinemuhasebeserver.persistance\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F53AF4-10E3-400A-93AA-D307303F2C28}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|c:\\users\\kutay\\desktop\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.domain\\appentities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F53AF4-10E3-400A-93AA-D307303F2C28}|OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj|solutionrelative:onlinemuhasebeserver.domain\\appentities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5C106F-F54E-415D-B424-A0A954149D8C}|OnlineMuhasebeServer.WebApi\\OnlineMuhasebeServer.WebApi.csproj|c:\\users\\kutay\\desktop\\onlinemuhasebe\\onlinemuhasebeserver\\onlinemuhasebeserver.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD5C106F-F54E-415D-B424-A0A954149D8C}|OnlineMuhasebeServer.WebApi\\OnlineMuhasebeServer.WebApi.csproj|solutionrelative:onlinemuhasebeserver.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OnlineMuhasebeServer.Persistance.csproj",
+              "DocumentMoniker": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj",
+              "ToolTip": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj",
+              "RelativeToolTip": "OnlineMuhasebeServer.Persistance\\OnlineMuhasebeServer.Persistance.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-06T11:46:21.164Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompanyServise.cs",
+              "DocumentMoniker": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Services\\AppServices\\CompanyServise.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistance\\Services\\AppServices\\CompanyServise.cs",
+              "ToolTip": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Services\\AppServices\\CompanyServise.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Persistance\\Services\\AppServices\\CompanyServise.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:49:33.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IcompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Services\\AppServices\\IcompanyService.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Services\\AppServices\\IcompanyService.cs",
+              "ToolTip": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Services\\AppServices\\IcompanyService.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Services\\AppServices\\IcompanyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:39:05.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateCompanyCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\Commands\\CreateCompany\\CreateCompanyCommandHandler.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\Commands\\CreateCompany\\CreateCompanyCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\Commands\\CreateCompany\\CreateCompanyCommandHandler.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\Commands\\CreateCompany\\CreateCompanyCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:34:41.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateCompanyResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\Commands\\CreateCompany\\CreateCompanyResponse.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\Commands\\CreateCompany\\CreateCompanyResponse.cs",
+              "ToolTip": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\Commands\\CreateCompany\\CreateCompanyResponse.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\Commands\\CreateCompany\\CreateCompanyResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:27:43.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreatreCompanyRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\Commands\\CreateCompany\\CreatreCompanyRequest.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\Commands\\CreateCompany\\CreatreCompanyRequest.cs",
+              "ToolTip": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\Commands\\CreateCompany\\CreatreCompanyRequest.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\Features\\CompanyFeatures\\Commands\\CreateCompany\\CreatreCompanyRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:24:40.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Application\\AssemblyReference.cs",
+              "ToolTip": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Application\\AssemblyReference.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Application\\AssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:20:03.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TableNames.cs",
+              "DocumentMoniker": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Constans\\TableNames.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistance\\Constans\\TableNames.cs",
+              "ToolTip": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Constans\\TableNames.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Persistance\\Constans\\TableNames.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T11:47:02.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UCAFConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Configurations\\UCAFConfigurations.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistance\\Configurations\\UCAFConfigurations.cs",
+              "ToolTip": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Configurations\\UCAFConfigurations.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Persistance\\Configurations\\UCAFConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T11:44:38.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistance\\AssemblyReference.cs",
+              "ToolTip": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\AssemblyReference.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Persistance\\AssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T11:42:45.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UniformChartOfAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\CompanyEntities\\UniformChartOfAccount.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Domain\\CompanyEntities\\UniformChartOfAccount.cs",
+              "ToolTip": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\CompanyEntities\\UniformChartOfAccount.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Domain\\CompanyEntities\\UniformChartOfAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T11:37:50.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OnlineMuhasebeServer.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj",
+              "ToolTip": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj",
+              "RelativeToolTip": "OnlineMuhasebeServer.Domain\\OnlineMuhasebeServer.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-06T11:36:50.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\AppEntities\\Company.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Domain\\AppEntities\\Company.cs",
+              "ToolTip": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Domain\\AppEntities\\Company.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Domain\\AppEntities\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T11:25:53.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompanyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Context\\CompanyDbContext.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.Persistance\\Context\\CompanyDbContext.cs",
+              "ToolTip": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.Persistance\\Context\\CompanyDbContext.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.Persistance\\Context\\CompanyDbContext.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwC8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T11:23:00.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineMuhasebeServer.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Kutay\\Desktop\\OnlineMuhasebe\\OnlineMuhasebeServer\\OnlineMuhasebeServer.WebApi\\Program.cs",
+              "RelativeToolTip": "OnlineMuhasebeServer.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:40:15.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
